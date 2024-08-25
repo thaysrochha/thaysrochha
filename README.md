@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thaysrochha. I'm a PhD student. 
 - 👀 I’m interested in bout cryptography, currently mainly in smart meters
-- 📫 How to reach me by email: academicthaysrocha@gmail.com
 - ⚡ Fun fact: I love math and later fell in love with cryptography. I'm curious about the programming world
 
 <!---
